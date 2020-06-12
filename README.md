@@ -13,6 +13,7 @@ In the similar way you have to type http://localhost/Product/update.php or /dele
 You can also create a user if you type http://localhost/create_user.php and write the json body like in this example: 
 
 {
+
  "firstname" : "exampleOfFirstName",
  
  "lastname" : "exampleOfLastName",
