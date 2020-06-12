@@ -8,9 +8,7 @@ In order to see how the application work you have to download the source code an
 
 To see products from database you have to type http://localhost/Product/read.php.
 
-
 In the similar way you have to type http://localhost/Product/update.php or /delete.php , etc for others operations.
-
 
 You can also create a user if you type http://localhost/create_user.php and write the json body like in this example: 
 
@@ -22,6 +20,7 @@ You can also create a user if you type http://localhost/create_user.php and writ
  "email" : "exampleOfEmail@gmail.com",
  
  "password" : "exampleOfPassword"
+ 
 }
 
 
